@@ -1,0 +1,6 @@
+123 Sarah Female  19
+235 Kayla Female  20
+911 Davin Male  17
+676 Lia Female  19
+234 James Male 21
+912 Isabel Female 15

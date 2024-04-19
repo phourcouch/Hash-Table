@@ -1,0 +1,145 @@
+Script started on Fri 01 Dec 2023 12:43:14 PM PST
+]0;le331@empress:~/cs311filess/CS311Progs/HWPrograms/forHW8[?1034h[le331@empress forHW8]$ ex./a.oug++ *.cpp
+]0;le331@empress:~/cs311filess/CS311Progs/HWPrograms/forHW8[le331@empress forHW8]$ g++ *.cp[5Pex./a.out
+This is a hashtable of People's Age, Name, Gender, you can add a person, find a person, delete a person, display the table, and save the table to a file at the end
+What is the input file? (.txt file)input1.txt
+0:[ empty ]
+1:[ empty ]
+2:[ empty ]
+3:[ empty ]
+4:[ empty ]
+5:[ empty ]
+6:[ empty ]
+7:[ empty ]
+8:[ empty ]
+9:[ empty ]
+10:[ 676 Lia Female 19]
+11:[ empty ]
+12:[ 123 Sarah Female 19 234 James Male 21]
+13:[ 235 Kayla Female 20]
+14:[ empty ]
+15:[ empty ]
+16:[ empty ]
+17:[ empty ]
+18:[ empty ]
+19:[ empty ]
+20:[ empty ]
+21:[ empty ]
+22:[ empty ]
+23:[ 911 Davin Male 17]
+24:[ 912 Isabel Female 15]
+25:[ empty ]
+26:[ empty ]
+27:[ empty ]
+28:[ empty ]
+29:[ empty ]
+30:[ empty ]
+31:[ empty ]
+32:[ empty ]
+33:[ empty ]
+34:[ empty ]
+35:[ empty ]
+36:[ empty ]
+
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file at the end
+6 Quit
+1
+What is the key to add? 735
+What is the name?Alexis
+What is the gender?Male
+What is the age?90
+Added the element in slot 32
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file at the end
+6 Quit
+2
+What is the key to find? 735
+Found this:
+735 Alexis Male 90
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file at the end
+6 Quit
+3
+What is the key to find and delete? 234
+Found it and deleted it from slot:12
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file at the end
+6 Quit
+4
+The current contents are: 
+0:[ empty ]
+1:[ empty ]
+2:[ empty ]
+3:[ empty ]
+4:[ empty ]
+5:[ empty ]
+6:[ empty ]
+7:[ empty ]
+8:[ empty ]
+9:[ empty ]
+10:[ 676 Lia Female 19]
+11:[ empty ]
+12:[ 123 Sarah Female 19]
+13:[ 235 Kayla Female 20]
+14:[ empty ]
+15:[ empty ]
+16:[ empty ]
+17:[ empty ]
+18:[ empty ]
+19:[ empty ]
+20:[ empty ]
+21:[ empty ]
+22:[ empty ]
+23:[ 911 Davin Male 17]
+24:[ 912 Isabel Female 15]
+25:[ empty ]
+26:[ empty ]
+27:[ empty ]
+28:[ empty ]
+29:[ empty ]
+30:[ empty ]
+31:[ empty ]
+32:[ 735 Alexis Male 90]
+33:[ empty ]
+34:[ empty ]
+35:[ empty ]
+36:[ empty ]
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file at the end
+6 Quit
+5
+Saved the updated table in newout.txt
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file at the end
+6 Quit
+6
+bye
+]0;le331@empress:~/cs311filess/CS311Progs/HWPrograms/forHW8[le331@empress forHW8]$ exit
+exit
+
+Script done on Fri 01 Dec 2023 12:43:58 PM PST
